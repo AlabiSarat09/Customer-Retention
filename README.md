@@ -59,7 +59,7 @@ Features:
 - Selection provides a list of all the objects on the current page and can be used to hide/unhide those objects.
 - Buttons(To navigate the welcome page to both the churn and churn risk analysis pages).
 
-## CuSstomer Demographics:
+## Customer Demographics:
 ![](Customer.png.png)
 
 Features:

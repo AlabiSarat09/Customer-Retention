@@ -3,10 +3,10 @@
 ![](Intro.png.jpeg)
 
 ## Introduction
-This is a power bi project on customer analysis called **Customer Retention**.
-The project is to analyze and derive insights to answer crucial questions and help the manager make data driven decisions.
+This is a Power BI project on customer analysis called **Customer Retention**.
+The project is to analyze and derive insights to answer crucial questions and help the manager make data-driven decisions.
 
-**_DISCLAIMERS_**: _All datasets and reports do not represent any company, institutions or countries, but just a dummy dataset to demonstrate capabilities of Power BI._
+**_DISCLAIMERS_**: _All datasets and reports do not represent any company, institutions, or countries, but just a dummy dataset to demonstrate the capabilities of Power BI._
 
 ## Problem Statement:
 •	Demographic information about customers: gender, age range, and if they partners and dependents.

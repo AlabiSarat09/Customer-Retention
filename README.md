@@ -4,20 +4,20 @@
 
 ## Introduction
 This is a Power BI project on customer analysis called **Customer Retention**.
-The project is to analyze and derive insights to answer crucial questions and help the manager make data-driven decisions.
+The project aims to analyze and derive insights to answer crucial questions, enabling the manager to make data-driven decisions.
 
-**_DISCLAIMERS_**: _All datasets and reports do not represent any company, institutions, or countries, but just a dummy dataset to demonstrate the capabilities of Power BI._
+**_DISCLAIMERS_**: _All datasets and reports do not represent any company, institutions, or countries, but are just dummy datasets to demonstrate the capabilities of Power BI_
 
 ## Problem Statement:
-•	Demographic information about customers: gender, age range, and if they partners and dependents.
+•	Demographic information about customers: gender, age range, and whether they have partners and dependents.
 
-•	Services each customer have signed up for: phone, multiple lines, online security, online backup, device protection, tech support and streaming movies and TV.
+•	Services each customer has signed up for: phone, multiple lines, online security, online backup, device protection, tech support, and streaming movies and TV.
 
-•	Customers account information: how long as a customer, contract, payment method, paperless billing, monthly charges and number of tickets opened in the categories (administrative and technical).
+•	Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, and number of tickets opened in the categories (administrative and technical).
 
 
 ## Data Sourcing:
-Not until I came up with the above mentioned questions did I went ahead to get the data. I downloaded the csv file into Microsoft Excel to clean and add some columns using the **IF Function**, then I extracted it into Power BI for cleaning, analysis and visualization.
+Not until I came up with the questions as mentioned above did I go ahead to get the data. I downloaded the csv file into Microsoft Excel to clean and add some columns using the **IF Function**, then I extracted it into Power BI for cleaning, analysis, and visualization.
 
 
 ### It contains 2 sheets/tables:
@@ -65,7 +65,7 @@ Features:
 Features:
 - Bookmark captures the state of a report page.
 - Selection provides a list of all the objects on the current page and can be used to hide/unhide those objects.
-- Icons is used to beautify the dashboard.
+- Icons are used to beautify the dashboard.
 - Button: to navigate to the churn risk analysis.
 
 ## Customer Risk Analysis:
@@ -78,7 +78,7 @@ Features:
 
   
 ## Conclusion and Recommendation:
-### After the visualization I got to know that:
+### After the visualization, I got to know that:
 - 25% of the customers are senior citizens,
 - 36% of the customers have partners,
 - and 17% of the customers are dependents.
